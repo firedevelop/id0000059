@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;video_163_Progarmacion_Generica_ArrayList&apos;" deleteContents="false" description="Delete resource &apos;video_163_Progarmacion_Generica_ArrayList&apos;" element1="/video_163_Progarmacion_Generica_ArrayList" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1523082233572"/>&#x0A;<refactoring comment="Delete 3 resources" deleteContents="false" description="Delete 3 resources" element1="/Java_Exercises" element2="/src" element3="/video_163_Progarmacion_Generica_ArrayList" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="3" stamp="1523084846944"/>
+</session>
